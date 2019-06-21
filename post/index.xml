@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Alex Chou的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Jun 2019 11:39:20 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 17:13:42 +0800</lastBuildDate>
     
 	<atom:link href="https://AlexChouZ.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Luelue</title>
+      <link>https://AlexChouZ.github.io/post/luelue/</link>
+      <pubDate>Fri, 21 Jun 2019 17:13:42 +0800</pubDate>
+      
+      <guid>https://AlexChouZ.github.io/post/luelue/</guid>
+      <description>aaaa</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://AlexChouZ.github.io/post/test/</link>
+      <pubDate>Fri, 21 Jun 2019 16:20:57 +0800</pubDate>
+      
+      <guid>https://AlexChouZ.github.io/post/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Second</title>
