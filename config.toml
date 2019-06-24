@@ -1,0 +1,27 @@
+baseURL = "https://AlexChouZ.github.io/"
+languageCode = "zh-cn"
+title = "Alex Chou的博客"
+theme = "cactus"
+markup = "markdown"
+paginate = 5
+copyright = ""
+disablePathToLower = true
+
+
+[author]
+	name = "Alex"
+	
+[params]
+	description = "-Let's be a better man-"
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
